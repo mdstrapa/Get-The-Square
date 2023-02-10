@@ -1,0 +1,155 @@
+[
+
+ {
+     "id":0,
+     "value":"Start the Game!"
+ },
+ {
+     "id":1,
+     "value":"Scores"
+ },
+ {
+     "id":2,
+     "value":"Settings"
+ },
+ {
+     "id":3,
+     "value":"Rules"
+ },
+ {
+     "id":4,
+     "value":"Type Your Name:"
+ },
+ {
+     "id":5,
+     "value":"Unknow"
+ },
+ {
+     "id":6,
+     "value":"Settings"
+ },
+ {
+     "id":7,
+     "value":"Done"
+ },
+ {
+     "id":8,
+ "value":"Background Music:"
+ },
+{
+    "id":9,
+ "value":"Background Music Volume:"
+ },
+ {
+     "id":10,
+ "value":"Sound Effects:"
+ },
+ {
+     "id":11,
+ "value":"Erase Score Data:"
+ },
+{
+    "id":12,
+    "value":"Click Here"
+ },
+ {
+     "id":13,
+ "value":"Level:"
+ },
+{
+    "id":14,
+ "value":"Total:"
+ },
+ {
+     "id":15,
+ "value":"Score:"
+ },
+ {
+     "id":16,
+     "value":"Scores"
+ },
+ {
+     "id":17,
+     "value":"Done"
+ },
+ {
+     "id":18,
+ "value":"Player:"
+ },
+ {
+     "id":19,
+     "value":"Rules"
+ },
+ {
+     "id":20,
+     "value":"The Rule is:\n\nGet the square as fast as you can!\n\nEvery 20 squares you get, the level increases, meaning that you have less time to tap the Square.\n\nThe game ends when you don’t get the square in the given time.\n\nEnjoy!!"
+ },
+ {
+     "id":21,
+     "value":"Are you sure?"
+ },
+{
+    "id":22,
+    "value":"This actions is going to erase ALL the saved data."
+ },
+ {
+     "id":23,
+     "value":"Yes"
+ },
+ {
+     "id":24,
+     "value":"Cancel"
+ },
+{
+    "id":25,
+    "value":"A monkey can do better than what you did."
+},
+{
+    "id":26,
+    "value":"Not bad. But also not good at all!"
+},
+{
+    "id":27,
+    "value":"Great score. Contrats."
+},
+{
+    "id":28,
+    "value":"YOU are sick!! Congrats!!"
+},
+{
+    "id":29,
+    "value":"ARE YOU SOME KIND OF GOD??"
+},
+{
+    "id":30,
+    "value":"I promise I will do better next time."
+},
+{
+    "id":31,
+    "value":"Sorry!"
+},
+{
+    "id":32,
+    "value":"Thanks!"
+},
+{
+    "id":33,
+    "value":"Yes!"
+},
+{
+    "id":34,
+    "value":"Game over"
+},
+{
+    "id":35,
+    "value":"Your score is"
+},
+ {
+    "id":36,
+ "value":"Language:"
+ },
+ {
+ "id":37,
+ "value":"Advanced Mode:"
+ }
+]

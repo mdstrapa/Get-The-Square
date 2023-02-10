@@ -1,0 +1,157 @@
+ [
+  
+  {
+  "id":0,
+  "value":"Starte das Spiel!"
+  },
+  {
+  "id":1,
+  "value":"Punkte"
+  },
+  {
+  "id":2,
+  "value":"Konfiguration"
+  },
+  {
+  "id":3,
+  "value":"Reglement"
+  },
+  {
+  "id":4,
+  "value":"Geben Sie Ihren Namen ein:"
+  },
+  {
+  "id":5,
+  "value":"Unbekannte"
+  },
+  {
+  "id":6,
+  "value":"Konfiguration"
+  },
+  {
+  "id":7,
+  "value":"Gemacht"
+  },
+  {
+  "id":8,
+  "value":"Hintergrundmusik:"
+  },
+  {
+  "id":9,
+  "value":"Hintergrund Musik Lautstärke:"
+  },
+  {
+  "id":10,
+  "value":"Sound-Effekt:"
+  },
+  {
+  "id":11,
+  "value":"Punkte-Daten Löschen:"
+  },
+  {
+  "id":12,
+  "value":"Klick Hier"
+  },
+  {
+  "id":13,
+  "value":"Niveau:"
+  },
+  {
+  "id":14,
+  "value":"Gesamt:"
+  },
+  {
+  "id":15,
+  "value":"Punkte:"
+  },
+  {
+  "id":16,
+  "value":"Punkte"
+  },
+  {
+  "id":17,
+  "value":"Gemacht"
+  },
+  {
+  "id":18,
+  "value":"Spieler:"
+  },
+  {
+  "id":19,
+  "value":"Reglement"
+  },
+  {
+  "id":20,
+  "value":"Die Regel ist:\n\nHolen Sie sich das Quadrat so schnell wie Sie können!\n\nAlle 20 Felder, die du erhältst, werden erhöht, sodass du weniger Zeit hast, den Platz zu erobern.\n\nDas Spiel endet, wenn Sie das Quadrat in der vorgegebenen Zeit nicht erhalten.\n\nGenießen!!"
+  },
+  {
+  "id":21,
+  "value":"Bist du sicher?"
+  },
+  {
+  "id":22,
+  "value":"Diese Aktion löscht ALLE gespeicherten Daten."
+  },
+  {
+  "id":23,
+  "value":"Ja"
+  },
+  {
+  "id":24,
+  "value":"Stornieren"
+  },
+  {
+  "id":25,
+  "value":"Ein Affe kann besser als das, was du getan hast."
+  },
+  {
+  "id":26,
+  "value":"Nicht schlecht. Aber auch nicht gut!"
+  },
+  {
+  "id":27,
+  "value":"Große Punktzahl. Contrats."
+  },
+  {
+  "id":28,
+  "value":"Du bist krank!! Glückwunsch!!"
+  },
+  {
+  "id":29,
+  "value":"SIND SIE EINIGE ART VON GOTT??"
+  },
+  {
+  "id":30,
+  "value":"Ich verspreche, ich werde es nächstes Mal besser machen."
+  },
+  {
+  "id":31,
+  "value":"Es tut uns leid!"
+  },
+  {
+  "id":32,
+  "value":"Danke!"
+  },
+  {
+  "id":33,
+  "value":"Ja!"
+  },
+  {
+  "id":34,
+  "value":"Spiel ist aus"
+  },
+  {
+  "id":35,
+  "value":"Sie punkten ist"
+  }
+  ,
+  {
+  "id":36,
+  "value":"Sprache:"
+  },
+  {
+  "id":37,
+  "value":"Fortgeschrittener Modus:"
+  }
+  ]
+

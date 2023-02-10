@@ -1,0 +1,155 @@
+[
+ 
+ {
+     "id":0,
+     "value":"Iniciar o Jogo!"
+ },
+ {
+     "id":1,
+     "value":"Pontuação"
+ },
+ {
+     "id":2,
+     "value":"Configuração"
+ },
+ {
+     "id":3,
+     "value":"Regras"
+ },
+ {
+     "id":4,
+     "value":"Informe seu Nome:"
+ },
+ {
+     "id":5,
+     "value":"Desconhecido"
+ },
+ {
+     "id":6,
+     "value":"Configurações"
+ },
+ {
+     "id":7,
+     "value":"Concluído"
+ },
+ {
+     "id":8,
+ "value":"Música de Fundo:"
+ },
+{
+    "id":9,
+ "value":"Volume da Música de Fundo:"
+},
+ {
+     "id":10,
+ "value":"Efeitos Sonoros:"
+ },
+ {
+     "id":11,
+ "value":"Apagar Pontuação:"
+ },
+{
+    "id":12,
+    "value":"Clique Aqui"
+},
+ {
+     "id":13,
+ "value":"Fase:"
+ },
+{
+    "id":14,
+ "value":"Total:"
+},
+ {
+     "id":15,
+ "value":"Pontuação:"
+ },
+ {
+     "id":16,
+     "value":"Pontuações"
+ },
+ {
+     "id":17,
+     "value":"Concluído"
+ },
+ {
+     "id":18,
+ "value":"Jogador:"
+ },
+ {
+     "id":19,
+     "value":"Regras"
+ },
+ {
+     "id":20,
+ "value":"A regra é:\n\nToque no quadrado o mais rápido possível!\n\nA cada 20 quadrados, o nível aumenta, o que significa que você terá menos tempo para pegar o quadrado.\n\nO jogo termina quando você não consegue pegar o quadrado no tempo disponível.\n\nCurta!!"
+ },
+ {
+     "id":21,
+     "value":"Você tem certeza?"
+ },
+{
+    "id":22,
+    "value":"Esta ação irá apagar TODOS os dados registrados."
+},
+ {
+     "id":23,
+     "value":"Sim"
+ },
+ {
+     "id":24,
+     "value":"Cancelar"
+ },
+{
+    "id":25,
+    "value":"Um macaco poderia fazer melhor do que isso."
+},
+{
+    "id":26,
+    "value":"Nada mal. Mas também nada bom!"
+},
+{
+    "id":27,
+    "value":"Excelente pontuação. Parabéns!"
+},
+{
+    "id":28,
+    "value":"VOCÊ é foda!! Parabéns!"
+},
+{
+    "id":29,
+    "value":"VOCÊ É ALGUM TIPO DE DEUS??"
+},
+{
+    "id":30,
+    "value":"Prometo que farei melhor na próxima vez."
+},
+{
+    "id":31,
+    "value":"Desculpa!"
+},
+{
+    "id":32,
+    "value":"Obrigado!"
+},
+{
+    "id":33,
+    "value":"Sim!"
+},
+{
+    "id":34,
+    "value":"Fim de jogo"
+},
+{
+    "id":35,
+    "value":"Sua pontuação é"
+ },
+ {
+ "id":36,
+ "value":"Idioma:"
+ },
+ {
+ "id":37,
+ "value":"Modo Avançado:"
+ }
+ ]
